@@ -45,9 +45,9 @@ ball.dx = 100
 ball.dy = 100
 
 # Pen
-scoreboard = turtle.Turtle()
-scoreboard.speed(0)
-scoreboard.shape("square")
+pen = turtle.Turtle()
+pen.speed(0)
+pen.shape("square")
 pen.color("white")
 pen.penup()
 pen.hideturtle()
